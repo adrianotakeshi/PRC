@@ -55,7 +55,7 @@ int main() {
 	verBoiMaisMagro();
 	verBoiMaisGordo();
 	
-	printf("\nO numero de bois eh %d", bois);
+	printf("\nO numero de bois e %d", bois);
 	
 	return 0;
 }
